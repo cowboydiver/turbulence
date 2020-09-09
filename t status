@@ -1,0 +1,211 @@
+[33mcommit a037ccadff1a6f1e244421e5dfeb7f04a593c0c9[m[33m ([m[1;36mHEAD -> [m[1;32mprojectionMovements[m[33m, [m[1;31morigin/projectionMovements[m[33m)[m
+Author: Lund <duemoselund@gmail.com>
+Date:   Fri Jun 22 11:36:12 2018 +0200
+
+    ProjectionCube now rotates on mouseInput
+
+[33mcommit 2ed095921d1c6dc6b2cd093f3cdae367f90ae260[m[33m ([m[1;31morigin/develop[m[33m, [m[1;32mdevelop[m[33m)[m
+Author: Lund <duemoselund@gmail.com>
+Date:   Thu Jun 21 16:27:39 2018 +0200
+
+    changed maxZoomDist
+
+[33mcommit c4cbb28ab99c46c87f3fe7ff02cc8eaddd6fc51f[m
+Author: Lund <duemoselund@gmail.com>
+Date:   Thu Jun 21 16:03:56 2018 +0200
+
+    removed cache files in git to respect the gitignore
+
+[33mcommit 084e5c20e740b8237ffba91d66d3084de3341819[m
+Author: Lund <duemoselund@gmail.com>
+Date:   Thu Jun 21 16:00:33 2018 +0200
+
+    Updated gitignore once again
+
+[33mcommit 0e207742021e2280585e53d0fb13aefa1cad2d84[m
+Merge: a366924 fe21b06
+Author: Lund <duemoselund@gmail.com>
+Date:   Thu Jun 21 15:55:58 2018 +0200
+
+    Merge branch 'messedUpMerge2' into develop
+    
+    # Conflicts:
+    #       Assets/CubeProjectingPrototype/Textures/ProjectingTexture_Back.renderTexture
+    #       Assets/CubeProjectingPrototype/Textures/ProjectingTexture_Back.renderTexture.meta
+    #       Assets/CubeProjectingPrototype/Textures/ProjectingTexture_Bottom.renderTexture.meta
+    #       Assets/CubeProjectingPrototype/Textures/ProjectingTexture_Front.renderTexture
+    #       Assets/CubeProjectingPrototype/Textures/ProjectingTexture_Front.renderTexture.meta
+    #       Assets/CubeProjectingPrototype/Textures/ProjectingTexture_Left.renderTexture
+    #       Assets/CubeProjectingPrototype/Textures/ProjectingTexture_Left.renderTexture.meta
+    #       Assets/CubeProjectingPrototype/Textures/ProjectingTexture_Right.renderTexture
+    #       Assets/CubeProjectingPrototype/Textures/ProjectingTexture_Top.renderTexture
+    #       Assets/CubeProjectingPrototype/Textures/ProjectionTextures/ProjectionTexture_Back.renderTexture
+    #       Assets/CubeProjectingPrototype/Textures/ProjectionTextures/ProjectionTexture_Bottom.renderTexture
+    #       Assets/CubeProjectingPrototype/Textures/ProjectionTextures/ProjectionTexture_Front.renderTexture
+    #       Assets/CubeProjectingPrototype/Textures/ProjectionTextures/ProjectionTexture_Left.renderTexture
+    #       Assets/CubeProjectingPrototype/Textures/ProjectionTextures/ProjectionTexture_Right.renderTexture
+    #       Assets/CubeProjectingPrototype/Textures/ProjectionTextures/ProjectionTexture_Right.renderTexture.meta
+    #       Assets/CubeProjectingPrototype/Textures/ProjectionTextures/ProjectionTexture_Top.renderTexture
+    #       Assets/CubeProjectingPrototype/Textures/RenderTextures/TargetRenderTexture_Back.renderTexture
+    #       Assets/CubeProjectingPrototype/Textures/RenderTextures/TargetRenderTexture_Back.renderTexture.meta
+    #       Assets/CubeProjectingPrototype/Textures/RenderTextures/TargetRenderTexture_Bottom.renderTexture
+    #       Assets/CubeProjectingPrototype/Textures/RenderTextures/TargetRenderTexture_Bottom.renderTexture.meta
+    #       Assets/CubeProjectingPrototype/Textures/RenderTextures/TargetRenderTexture_Front.renderTexture
+    #       Assets/CubeProjectingPrototype/Textures/RenderTextures/TargetRenderTexture_Front.renderTexture.meta
+    #       Assets/CubeProjectingPrototype/Textures/RenderTextures/TargetRenderTexture_Left.renderTexture
+    #       Assets/CubeProjectingPrototype/Textures/RenderTextures/TargetRenderTexture_Left.renderTexture.meta
+    #       Assets/CubeProjectingPrototype/Textures/RenderTextures/TargetRenderTexture_Right.renderTexture
+    #       Assets/CubeProjectingPrototype/Textures/RenderTextures/TargetRenderTexture_Right.renderTexture.meta
+    #       Assets/CubeProjectingPrototype/Textures/RenderTextures/TargetRenderTexture_Top.renderTexture.meta
+    #       Assets/Demigiant/DOTween/Editor/Imgs/DOTweenIcon.png.meta
+    #       Assets/Demigiant/DOTween/Editor/Imgs/Footer.png.meta
+    #       Assets/Demigiant/DOTween/Editor/Imgs/Footer_dark.png.meta
+    #       Assets/Demigiant/DOTween/Editor/Imgs/Header.jpg.meta
+    #       Library/expandedItems
+
+[33mcommit fe21b06a524f4782ce44ba38789947b1b02c5361[m[33m ([m[1;31morigin/messedUpMerge2[m[33m, [m[1;32mmessedUpMerge2[m[33m)[m
+Author: Lund <duemoselund@gmail.com>
+Date:   Thu Jun 21 15:51:45 2018 +0200
+
+    some meta files
+
+[33mcommit 458f99db79fcfc2b168a9f16df7e76ea3efc7737[m
+Author: Lund <duemoselund@gmail.com>
+Date:   Thu Jun 21 15:29:31 2018 +0200
+
+    Somewhat working?
+
+[33mcommit e0def651f64eccb56beb8d3aedc25f30eac1a693[m
+Author: Lund <duemoselund@gmail.com>
+Date:   Thu Jun 21 15:23:59 2018 +0200
+
+    Merge conflict ahead
+
+[33mcommit a3669243d6ae08128185d0a1d6ff4da01f22aef4[m[33m ([m[1;31morigin/SphereScaling[m[33m)[m
+Author: Mette Jakobsen <mette9jakobsen@hotmail.com>
+Date:   Thu Jun 21 15:01:47 2018 +0200
+
+    Added 3 interesting fillaments.
+
+[33mcommit 8d466b9597b65f45e7abe152b6c7eca7c0f75ca3[m
+Merge: aba33f9 d4537c5
+Author: Mette Jakobsen <mette9jakobsen@hotmail.com>
+Date:   Thu Jun 21 12:30:34 2018 +0200
+
+    Merge branch 'develop' into SphereScaling
+    
+    # Conflicts:
+    #       .gitignore
+    #       Library/CurrentLayout.dwlt
+    #       Library/assetDatabase3
+    #       Library/metadata/00/00000000000000003000000000000000
+    #       Library/shadercompiler-UnityShaderCompiler.exe0.log
+
+[33mcommit aba33f9d6bd9a48685f1a180843388edf8bd9e7c[m
+Author: Lund <duemoselund@gmail.com>
+Date:   Thu Jun 21 11:17:04 2018 +0200
+
+    git ignore updated
+
+[33mcommit 45538a65dd709272c586256745111a5b4981390d[m[33m ([m[1;32mmessedUpMerge[m[33m)[m
+Author: Mette Jakobsen <mette9jakobsen@hotmail.com>
+Date:   Thu Jun 21 11:09:10 2018 +0200
+
+    ekstra commit
+
+[33mcommit abe927d6441ad5fc82b663677614f0303db181de[m
+Author: Mette Jakobsen <mette9jakobsen@hotmail.com>
+Date:   Thu Jun 21 11:08:20 2018 +0200
+
+    Created original tubulence prototype folder. Prototype can see whether the marker is inside or outside the filament.
+
+[33mcommit d4537c54c68154e393e25a4b5c11cd5bd9ffd85b[m
+Author: Lund <duemoselund@gmail.com>
+Date:   Thu Jun 21 10:26:44 2018 +0200
+
+    Saved scene
+
+[33mcommit 68f2dd4855bd93ae2d637e575eb9c9167225cd4b[m
+Author: Lund <duemoselund@gmail.com>
+Date:   Thu Jun 21 10:23:39 2018 +0200
+
+    Once more updated gitIgnore
+
+[33mcommit 06aed349c9e433440662cfb1d862372e560f801f[m
+Author: Lund <duemoselund@gmail.com>
+Date:   Thu Jun 21 10:18:49 2018 +0200
+
+    Hopefully fixed git ignore to leave out library files
+
+[33mcommit 61620d88ac9430773c3e5b6b31735ac09ff7b993[m
+Merge: 9a52cf2 e68cefb
+Author: Lund <duemoselund@gmail.com>
+Date:   Thu Jun 21 10:12:23 2018 +0200
+
+    Merge branch 'featuresalvagingOldTurb' into develop
+    
+    # Conflicts:
+    #       Library/CurrentLayout.dwlt
+    #       Library/LastSceneManagerSetup.txt
+    #       Library/assetDatabase3
+    #       Library/metadata/00/00000000000000003000000000000000
+
+[33mcommit 9a52cf2535db3e626f5e46e598705f61e43b9b7c[m
+Author: Lund <duemoselund@gmail.com>
+Date:   Thu Jun 21 10:01:21 2018 +0200
+
+    Errors in merge
+
+[33mcommit e68cefb13ba993426234b696613f9719174ec981[m[33m ([m[1;31morigin/featuresalvagingOldTurb[m[33m)[m
+Author: Lund <duemoselund@gmail.com>
+Date:   Thu Jun 21 09:59:01 2018 +0200
+
+    Finalized visuals of projecting prototype
+
+[33mcommit 7c76201909514c8d5b0681c178356d9c94d2461a[m
+Author: Lund <duemoselund@gmail.com>
+Date:   Wed Jun 20 16:20:45 2018 +0200
+
+    Somewhat working
+
+[33mcommit 7b313f2e598fe01e7b1f624af4bf47695a2d7e66[m
+Author: Lund <duemoselund@gmail.com>
+Date:   Wed Jun 20 11:26:30 2018 +0200
+
+    Still working on the projectionCube
+
+[33mcommit 15b846bd7e6bc7a306f0687fc190b9863f9175eb[m
+Author: Lund <duemoselund@gmail.com>
+Date:   Tue Jun 19 16:18:13 2018 +0200
+
+    Still working on projection
+
+[33mcommit bc3feda13a1aae5ff2819c8d8ee7f0a9d98cf3aa[m
+Author: Lund <duemoselund@gmail.com>
+Date:   Tue Jun 19 09:51:25 2018 +0200
+
+    Prototype projecting cube
+
+[33mcommit 41e5c70cc8d629d487773053074a8605f195c674[m
+Author: Lund <duemoselund@gmail.com>
+Date:   Mon Jun 18 16:27:58 2018 +0200
+
+    Working on cube projection prototype
+
+[33mcommit 010566e629824648ba4eda13230dc88f6bf34e7e[m
+Author: Lund <duemoselund@gmail.com>
+Date:   Thu Jun 14 16:59:39 2018 +0200
+
+    some asset database
+
+[33mcommit eb4ff23b8548d53e82b59ade40fd5bdc2a8c07f2[m
+Author: Lund <duemoselund@gmail.com>
+Date:   Thu Jun 14 15:52:46 2018 +0200
+
+    begun adding bits and pieces from old turbulence to add and work with an offline filament
+
+[33mcommit d07d20652461408876b057b1a0681fb65efb7d59[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mproduction[m[33m)[m
+Author: Lund <duemoselund@gmail.com>
+Date:   Tue Jun 12 13:48:58 2018 +0200
+
+    Initial commit

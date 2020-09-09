@@ -1,0 +1,112 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: GhostSphere
+  m_Shader: {fileID: 4800000, guid: 48ed839b730264ef692bebfd02c82e3c, type: 3}
+  m_ShaderKeywords: _NORMALMAP _WIREFRAMEDOUBLESIDED_ON _WIREFRAME_AA _WIREFRAME_ALPHA_NORMAL
+    _WIREFRAME_VISIBILITY_NORMAL
+  m_LightmapFlags: 5
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 2800000, guid: a0e1d1f74e240450da837b2a6bdd3598, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 2800000, guid: 1132b50fab77d4031b25220da9cadc46, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SpecGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _WireframeMaskTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _WireframeTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _BumpScale: 2
+    - _Cutoff: 0
+    - _DetailNormalMapScale: 1
+    - _DoubleSide: 0
+    - _DstBlend: 0
+    - _EmissiveIntensity: 1
+    - _Gloss: 0.5
+    - _Glossiness: 0.82
+    - _Metallic: 0
+    - _Mode: 0
+    - _NormalIntensity: 1
+    - _OcclusionStrength: 1
+    - _Parallax: 0.02
+    - _SpecIntensity: 0.2
+    - _SrcBlend: 1
+    - _Transparency: 0.5
+    - _UVSec: 0
+    - _UseMetallicMap: 0
+    - _WireframeAA: 1
+    - _WireframeAlpha: 1
+    - _WireframeAlphaMode: 0
+    - _WireframeCull: 0
+    - _WireframeDoubleSide: 0
+    - _WireframeDoubleSided: 1
+    - _WireframeDoubleSides: 0
+    - _WireframeLighting: 0
+    - _WireframeMaskUV: 0
+    - _WireframeSize: 1
+    - _WireframeTexAniSpeedX: 0
+    - _WireframeTexAniSpeedY: 0
+    - _WireframeUV: 0
+    - _WireframeWidth: 1
+    - _Wireframe_Alpha: 0
+    - _Wireframe_VISIBILITY: 0
+    - _ZWrite: 1
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 0.503}
+    - _Diffusecolor: {r: 1, g: 1, b: 1, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _Speccolor: {r: 1, g: 1, b: 1, a: 1}
+    - _WireframeColor: {r: 0.8, g: 0.8, b: 0.8, a: 1}
+    - _WireframeEmissionColor: {r: 0.09558821, g: 0.09558821, b: 0.09558821, a: 1}
